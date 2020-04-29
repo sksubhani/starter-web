@@ -16,3 +16,7 @@ Added one more line.
 ### Copyright
 
 2020 Git Inc.
+
+### Thanks
+
+Thanks to entire development team.
