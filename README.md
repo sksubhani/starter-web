@@ -13,6 +13,9 @@ This section talks about deployment process.
 
 Added one more line.
 
+### How to contribute
+Please add and do a pull request.
+
 ### Copyright
 
 2020 Git Inc.
