@@ -12,3 +12,7 @@ Sample website with plenty of files for demos
 This section talks about deployment process.
 
 Added one more line.
+
+### Copyright
+
+2020 Git Inc.
